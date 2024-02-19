@@ -114,7 +114,7 @@
             Controls.Add(label1);
             FormBorderStyle = FormBorderStyle.Fixed3D;
             Name = "Form1";
-            Opacity = 0.9D;
+            Opacity = 0.6D;
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Ping Pong";
             KeyDown += Form1_KeyDown;

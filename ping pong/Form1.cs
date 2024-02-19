@@ -92,6 +92,9 @@ namespace ping_pong
             label3.Visible = false;
             pictureBox2.Top = 300;
             pictureBox2.Left = 300;
+            speedballleft = 3;
+            speedballtop = 3;
+            score = 0;
         }
     }
 }
